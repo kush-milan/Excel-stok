@@ -1,3 +1,4 @@
+![](https://github.com/kush-milan/Excel-stok/blob/main/Screenshot%202026-10-25%20213929.png)
                         Assignment -1 
 
 
