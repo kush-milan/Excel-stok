@@ -8,3 +8,4 @@
     Q.4 Student Ashok and Manoj Total Number and Average Use of Sumif
     Q.5 Count how many Students Use of Counta
     Q.6 How Many Student Hindi & English Subject Number Grater Then > 20 and <15 
+![](https://github.com/kush-milan/Excel-stok/blob/main/Screenshot%202026-10-25%20213929.png)
